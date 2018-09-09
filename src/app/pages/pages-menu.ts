@@ -30,7 +30,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/ui-features/grid',
       },
       {
-        title: 'Icons',
+        title: 'Icons', 
         link: '/pages/ui-features/icons',
       },
       {
